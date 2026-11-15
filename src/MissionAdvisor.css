@@ -1,0 +1,22 @@
+
+.mission-advisor {
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid #334155;
+  border-radius: 16px;
+  padding: 22px;
+  margin: 20px 0;
+  color: #e2e8f0;
+}
+
+.mission-advisor h2 {
+  color: #a78bfa;
+}
+
+.mission-advisor h3 {
+  color: #67e8f9;
+  margin-top: 18px;
+}
+
+.mission-advisor p {
+  line-height: 1.7;
+}

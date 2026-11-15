@@ -1,0 +1,23 @@
+
+.trajectory-scene {
+  width: 100%;
+  height: 450px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px;
+  background: #020617;
+  border: 1px solid #2563eb;
+  box-shadow: 0 0 25px rgba(56, 189, 248, 0.2);
+}
+
+.trajectory-label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #38bdf8;
+  font-weight: bold;
+  font-size: 16px;
+  pointer-events: none;
+}
